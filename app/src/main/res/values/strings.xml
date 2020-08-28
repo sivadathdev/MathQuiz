@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="mathsExam">Maths Exam</string>
+    <string name="start">START EXAM</string>
+</resources>
